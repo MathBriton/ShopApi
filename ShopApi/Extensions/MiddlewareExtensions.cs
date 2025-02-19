@@ -16,8 +16,8 @@ namespace Supermarket.API.Extensions
                     Description = "Simple RESTful API built with ASP.NET Core to show how to create RESTful services using a service-oriented architecture.",
                     Contact = new OpenApiContact
                     {
-                        Name = "Evandro Gayer Gomes",
-                        Url = new Uri("https://evgomes.github.io/")
+                        Name = "Matheus Brito",
+                        Url = new Uri("https://github.com/MathBriton/")
                     },
                     License = new OpenApiLicense
                     {
